@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ /**
+  ~  Copyright © 2016 MW. All rights reserved.
+  ~  See COPYING.txt for license details.
+  ~  */
+  -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="mageworld" translate="label" sortOrder="999998">
+            <label>Mage World Extension</label>
+        </tab>
+        <section id="maximumcoupondiscount" translate="label" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+            <label>Maximum Coupon Discount Amount</label>
+            <tab>mageworld</tab>
+            <resource>MW_MaximumCouponDiscount::system_config</resource>
+            <group id="general" translate="label" sortOrder="1" type="text" showInDefault="1" showInWebsite="1"
+                   showInStore="1">
+                <label>General Configuration</label>
+                <field id="active" translate="label comment" sortOrder="12" type="select" showInDefault="1" showInWebsite="1"
+                       showInStore="1">
+                    <label>Enable Maximum Coupon Discount Amount</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+            </group>
+
+        </section>
+    </system>
+</config>
