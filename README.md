@@ -1,5 +1,15 @@
 # Magento 2 Maximum Coupon Discount Extension
 The Maximum Coupon Discount extension helps the store owners to limit the total discount amount when customers apply a coupon code. By pre-setting the maximum amount, it is easier for the web owners to manage all cart rules. Customers will receive the discount amount set by the administrator even their order can reach a larger amount. 
+# Highlight Features 
+* Limit the money amount to be discounted on each order
+
+When customers apply a coupon code to an order, no matter how much value the coupon is, customers can receive only the amount that set by the store owners. 
+* Notify customers when the discount amount reaches the limit 
+
+If the exact discount amount is larger than the limit, customers will see a notification of the issue so they will know the reason they do not receive full discount amount. 
+* Easy to manage
+
+All the configuration are simple and easy to follow so users can interact with the module without any difficulty. 
 # Documentation:
 * Product page: https://www.mage-world.com/maximum-coupon-discount-magento-2.html
 * User guide: https://docs.mage-world.com/doku.php?id=magento_2:maximum_coupon_discount
