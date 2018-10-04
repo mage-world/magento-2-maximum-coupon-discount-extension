@@ -31,6 +31,7 @@ php bin/magento setup:static-content:deploy
 
 php bin/magento cache:flush
 </code>
-#Support: 
+
+# Support: 
 * Tell us your problem: https://support.mage-world.com/hc/en-us
 * FAQ: https://www.mage-world.com/faq
