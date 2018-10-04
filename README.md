@@ -1,1 +1,1 @@
-# Magento-2-Maximum-Coupon-Discount-Extension
+# Magento 2 Maximum Coupon Discount Extension
