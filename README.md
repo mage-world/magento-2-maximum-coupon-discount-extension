@@ -3,7 +3,7 @@ The Maximum Coupon Discount extension helps the store owners to limit the total 
 # Demo
 * [Backend](https://magento2.mage-world.com/demo03/autologin/backend/login?redirect=sales_rule/promo_quote/edit/id/5/)
 * [Frontend](https://magento2.mage-world.com/demo03/autologin/frontend/addtocart?redirect=checkout/cart)
-<a href="https://magento2.mage-world.com/demo03/autologin/backend/login?redirect=sales_rule/promo_quote/edit/id/5/" target="_blank">Backend</a>
+<a href="https://magento2.mage-world.com/demo03/autologin/backend/login?redirect=sales_rule/promo_quote/edit/id/5/" target="blank">Backend</a>
 # Highlight Features 
 * **Limit the money amount to be discounted on each order**
 
