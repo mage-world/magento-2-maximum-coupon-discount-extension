@@ -37,13 +37,11 @@ Unzip file that you've just downloaded and use FileZilla (WinSCP) to upload to M
 
 Login to ssh, go to Magento root folder and run these command lines:
 
-<code>
+```
 php bin/magento setup:upgrade
-
 php bin/magento setup:static-content:deploy
-
 php bin/magento cache:flush
-</code>
+```
 
 # Support: 
 * Tell us your problem: https://support.mage-world.com/hc/en-us
